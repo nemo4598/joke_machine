@@ -5,8 +5,8 @@
 #include <TFT_eSPI.h>  // knihovna pro TFT displej
 
 // Wi-Fi údaje
-const char* ssid = "Petr_doma";
-const char* password = "H3sloHesl0";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 // URL pro vtipy
 const String url = "https://v2.jokeapi.dev/joke/Programming";
