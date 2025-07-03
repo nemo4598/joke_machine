@@ -1,6 +1,6 @@
 # Joke Machine — Arduino Project with TFT SPI Display
 
-This project is a simple joke generator running on Arduino, displaying random jokes on a small TFT SPI display. Perfect for beginner makers who want to combine programming, electronics, and fun.
+This project is a simple joke generator running on ESP8266, displaying random jokes on a small TFT SPI display. Perfect for beginner makers who want to combine programming, electronics, and fun.
 
 ---
 
