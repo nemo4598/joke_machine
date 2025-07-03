@@ -15,7 +15,7 @@ This project is a simple joke generator running on Arduino, displaying random jo
 
 ## Hardware
 
-- Arduino-compatible board (e.g. Arduino Uno, Mega, or ESP32)
+- Arduino Ide-compatible board (e.g. ESP32)
 - TFT SPI display (e.g. ILI9341, ST7735, or similar)
 - Connected via SPI pins plus control pins as required by the library
 
