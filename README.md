@@ -48,11 +48,7 @@ This project is a simple joke generator running on Arduino, displaying random jo
 
 ---
 
-## License
 
-This project is open source and free to use.
-
----
 
 Feel free to ask if you want help with wiring, library setup, or code modifications!
 
