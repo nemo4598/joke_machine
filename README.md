@@ -43,7 +43,7 @@ This project is a simple joke generator running on Arduino, displaying random jo
 
 ## Customization
 
-- Edit the jokes list directly in the `sketch_jul01c.ino` file to add your own jokes.
+
 - Modify display settings and fonts by adjusting the TFT_eSPI library configuration.
 
 ---
