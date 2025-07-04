@@ -6,7 +6,7 @@ This project is a simple joke generator running on ESP8266, displaying random jo
 
 ## Features
 
-- Generates and displays random jokes (in English)
+- Download and displays random jokes (in English)
 - Output on a color TFT SPI display
 - Easy to modify and add new jokes in the code
 - Uses the TFT_eSPI library (or other compatible library for your display)
